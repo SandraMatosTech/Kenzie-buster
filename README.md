@@ -1,5 +1,5 @@
 # M5 - Kenzie Buster
-
+Você foi selecionado pelo gestor da sua empresa para desenvolver uma API com o intuito de fazer uma gestão de vendas de filmes que está querendo sair do papel e caneta e planilhas bagunçadas. Nesse projeto você criará uma aplicação para gerenciar usuários, filmes e compras, incluindo autenticação e permissões de rotas para diferentes tipos de usuário.
 ## Instalação dos pacotes de teste
 
 - Verifique se os pacotes `pytest` e/ou `pytest-testdox` estão instalados globalmente em seu sistema:
